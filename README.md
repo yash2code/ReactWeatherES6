@@ -1,7 +1,7 @@
 ### React Weather Application  
 
--It fetches the weather of any city.
--Know the current weather in a single click.
+- It fetches the weather of any city.
+- Know the current weather in a single click.
 
 <img src='https://media.giphy.com/media/l4FGoeEbRLxjR0vEA/giphy.gif' width='500' alt='demo'>
 
