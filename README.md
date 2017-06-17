@@ -1,11 +1,11 @@
-###React Weather Application  
+### React Weather Application  
 
 -It fetches the weather of any city.
 -Know the current weather in a single click.
 
 <img src='https://giphy.com/gifs/l4FGoeEbRLxjR0vEA' width='500' alt='demo'>
 
-###Getting Started
+### Getting Started
 
 - Clone it by running command:
 	git clone https://github.com/yash2code/ReactWeatherES6.git
@@ -16,7 +16,7 @@
 
 - ``` npm start ```
 
-###Built using
+### Built using
 
 - [Create-React-App](https://github.com/facebookincubator/create-react-app)
 - [Bootstrap](http://getbootstrap.com/)
