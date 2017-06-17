@@ -3,7 +3,7 @@
 -It fetches the weather of any city.
 -Know the current weather in a single click.
 
-<img src='https://giphy.com/gifs/l4FGoeEbRLxjR0vEA' width='500' alt='demo'>
+<img src='https://media.giphy.com/media/l4FGoeEbRLxjR0vEA/giphy.gif' width='500' alt='demo'>
 
 ### Getting Started
 
