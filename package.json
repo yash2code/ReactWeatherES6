@@ -2,6 +2,7 @@
   "name": "reactpro",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://yash2code.github.io/ReactWeatherES6",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.21.0",
@@ -11,6 +12,7 @@
     "babel-preset-react": "^6.16.0",
     "bootstrap": "^4.0.0-alpha.6",
     "css-loader": "^0.26.1",
+    "gh-pages": "^1.0.0",
     "jquery": "^3.1.1",
     "react-scripts": "0.8.4",
     "script-loader": "^0.7.0",
@@ -26,8 +28,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-     "eject": "react-scripts eject",
-    "test": "react-scripts test --env=jsdom"
-   
+    "eject": "react-scripts eject",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }
